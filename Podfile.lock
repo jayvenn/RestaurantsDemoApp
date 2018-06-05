@@ -1,0 +1,20 @@
+PODS:
+  - SDWebImage (4.3.3):
+    - SDWebImage/Core (= 4.3.3)
+  - SDWebImage/Core (4.3.3)
+  - SnapKit (4.0.0)
+  - SwiftSpinner (1.5.0)
+
+DEPENDENCIES:
+  - SDWebImage
+  - SnapKit
+  - SwiftSpinner
+
+SPEC CHECKSUMS:
+  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SwiftSpinner: 4c058c7a1d6b444dd2e1d70988ead40783097133
+
+PODFILE CHECKSUM: c54ede78415c5b74571983e2b90e361b09901dbf
+
+COCOAPODS: 1.3.1
